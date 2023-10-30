@@ -1,0 +1,17 @@
+{
+    "homePageUrl": "https://www.redmine.org/",
+    "loginPageUrl": "https://www.redmine.org/login",
+    "myPagePageUrl":"https://www.redmine.org/my/page",
+    "projectsURL":"https://www.redmine.org/projects",
+    "overviewURL":"https://www.redmine.org/projects/redmine",
+    "downloadURL":"https://www.redmine.org/projects/redmine/wiki/Download",
+    "activityURL":"https://www.redmine.org/projects/redmine/activity",
+    "roadmapURL":"https://www.redmine.org/projects/redmine/roadmap",
+    "issuesURL":"https://www.redmine.org/projects/redmine/issues",
+    "newsURL":"https://www.redmine.org/projects/redmine/news",
+    "wikiURL":"https://www.redmine.org/projects/redmine/wiki",
+    "forumsURL":"https://www.redmine.org/projects/redmine/boards",
+    "repositryURL":"https://www.redmine.org/projects/redmine/repository",
+    "newIssueURL":"https://www.redmine.org/projects/redmine/issues/new",
+    "addURL":"https://www.redmine.org/#google_vignette"
+}

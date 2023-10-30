@@ -1,0 +1,24 @@
+{
+  "name": "playwrighttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf allure-report/ && rimraf allure-results && rimraf test-results",
+    "test": "playwright test --headed",
+    "test:headless": "playwright test",
+    "test:reporter": "npm run clean && playwright test --headed --reporter=allure-playwright",
+    "allure-report": "npx allure generate ./allure-results --clean && npx allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.9",
+    "allure-commandline": "^2.24.1",
+    "allure-playwright": "^2.9.2",
+    "rimraf": "^5.0.5"
+  }
+}

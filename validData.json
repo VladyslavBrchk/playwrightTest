@@ -1,0 +1,10 @@
+{
+    "username": "VVBrchk",
+    "password": "Omega1666",
+    "homePageUrl": "https://www.redmine.org/",
+    "loginPageUrl": "https://www.redmine.org/login",
+    "myPagePageUrl": "https://www.redmine.org/my/page",
+    "myPageAddMenuLength": 11,
+    "invalidLoginMsg": "Invalid user or password",
+    "issueCreatedMessage": "Issue | created."
+}
